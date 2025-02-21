@@ -18,6 +18,6 @@ I am a Postgraduate student in Computer Science at University of Science and Tec
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
