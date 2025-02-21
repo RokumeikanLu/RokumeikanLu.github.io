@@ -9,7 +9,7 @@ I am a Postgraduate student in Computer Science at University of Science and Tec
 ## Research Interests
 
 - **Efficient ML:** Pruning for Large Language Models (LLMs)
-- **High Performance Computing:** Inference acceleration, Sparse matrix-matrix multiplication (SpMM) kernel
+- **High Performance Computing:** Inference acceleration, Sparse GPU kernels
 
 ## News
 
