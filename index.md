@@ -11,7 +11,7 @@ I am a Postgraduate student in Computer Science at University of Science and Tec
 - **Efficient ML:** Pruning for Large Language Models (LLMs)
 - **High Performance Computing:** Inference acceleration, Sparse GPU kernels
 
-## News
+<!-- ## News -->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
