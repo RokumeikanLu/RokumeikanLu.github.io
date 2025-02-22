@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postgraduate student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun. I received my B.S. degree in the talent program for Artificial Intelligence from the School of the Gifted Young, USTC in 2024.
+I am a Postgraduate student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun. I received my B.E. degree in the talent program for Artificial Intelligence from the School of the Gifted Young, USTC in 2024.
 
 ## Research Interests
 
