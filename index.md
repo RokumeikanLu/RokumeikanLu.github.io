@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Postgraduate student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun. I received my B.E. degree in the talent program for Artificial Intelligence from the School of the Gifted Young, USTC in 2024.
+I am a Postgraduate student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun. I received my Bachelor degree in Artificial Intelligence(Honor) from the School of the Gifted Young, USTC in 2024.
 
 ## Research Interests
 
 - **Efficient ML:** Pruning for Large Language Models (LLMs)
-- **High Performance Computing:** Inference acceleration, Sparse GPU kernels
+- **High Performance Computing:** Sparse GPU kernels
 
 <!-- ## News -->
 
