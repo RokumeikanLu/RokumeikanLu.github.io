@@ -8,7 +8,7 @@ I am a Postgraduate student in Computer Science at University of Science and Tec
 
 ## Research Interests
 
-- **Efficient ML:** Pruning for Large Language Models (LLMs)
+- **Efficient ML:** Sparsity, Neural Architectural Search
 - **High Performance Computing:** Sparse GPU kernels
 
 <!-- ## News -->
