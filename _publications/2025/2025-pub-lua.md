@@ -2,7 +2,7 @@
 title:          "Lua-LLM: Learning Unstructured-Sparsity Allocation for Large Language Models"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "Conference on Neural Information Processing Systems (NeurIPS)"
+pub:            "Advances in Neural Information Processing Systems (NeurIPS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -12,10 +12,7 @@ abstract: >-
   We propose Lua-LLM (Learning unstructured-sparsity allocation in LLMs), a learning-based global pruning framework that explores the optimal unstructured sparsity allocation. Unlike existing pruning methods, which primarily focus on allocating per-layer sparsity, Lua-LLM achieves flexible allocation for both layer-wise and intra-layer sparsity.
 cover:          /assets/images/covers/end.pdf
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Mingge Lu, Jingwei Sun, Junqing Lin, Zechun Zhou, Guangzhong Sun
 links:
   #Code: https://github.com/luost26/academic-homepage
   Openreview: https://openreview.net/forum?id=CA1xVSvn72
