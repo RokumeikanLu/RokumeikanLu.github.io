@@ -12,7 +12,7 @@ abstract: >-
   We propose Lua-LLM (Learning unstructured-sparsity allocation in LLMs), a learning-based global pruning framework that explores the optimal unstructured sparsity allocation. Unlike existing pruning methods, which primarily focus on allocating per-layer sparsity, Lua-LLM achieves flexible allocation for both layer-wise and intra-layer sparsity.
 cover:          /assets/images/covers/end.pdf
 authors:
-  - Mingge Lu, Jingwei Sun, Junqing Lin, Zechun Zhou, Guangzhong Sun
+  - <strong>Mingge Lu</strong>, Jingwei Sun, Junqing Lin, Zechun Zhou, Guangzhong Sun
 links:
   #Code: https://github.com/luost26/academic-homepage
   Openreview: https://openreview.net/forum?id=CA1xVSvn72
