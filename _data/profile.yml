@@ -22,7 +22,7 @@ github: RokumeikanLu
 
 short_bio_text_justify: false
 short_bio: 
-  I am a Master student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun and Dr. Jingwei Sun. I received my Bachelor degree in the Talent Program in AI (Honor) from School of the Gifted Young, USTC in 2024. <br>
+  I am a Master student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun and Prof. Jingwei Sun. I received my Bachelor degree in the Talent Program in AI (Honor) from School of the Gifted Young, USTC in 2024. <br>
   My research interests lie broadly in designing efficient machine learning systems, including model compression algorithms (sparsity, quantization, neural architecture search) and co-designed GPU kernels.
 
 portrait_url: /assets/images/photos/lmg.jpg
@@ -46,10 +46,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+awards:
+- name: Shenzhen Stock Exchange Scholarship
+  date: 2025
+- name: Master Student Academic Scholarship
+  date: 2024, 2025
+- name: Outstanding Student Scholarship Silver Award
+  date: 2022, 2023
